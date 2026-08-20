@@ -2,6 +2,8 @@
 
 A comparative NLP study evaluating deep learning architectures on a binary classification task: determining whether a hypothesis is true given a premise.
 
+For additional details about supporting files, see [More Information](more_information.md).
+
 ---
 
 ## Dataset Overview
